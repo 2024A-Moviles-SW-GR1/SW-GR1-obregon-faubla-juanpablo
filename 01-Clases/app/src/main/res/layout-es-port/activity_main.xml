@@ -5,7 +5,7 @@
     android:id="@+id/main"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="#F6F2F2"
+    android:background="#F66464"
     tools:context=".MainActivity">
 
     <TextView
@@ -13,7 +13,7 @@
         android:layout_height="wrap_content"
         android:background="#F44336"
         android:backgroundTint="#F6F2F2"
-        android:text="PORT EN"
+        android:text="PORT ES"
         android:textColor="#D207FF"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"

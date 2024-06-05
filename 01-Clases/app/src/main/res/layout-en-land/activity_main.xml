@@ -5,7 +5,7 @@
     android:id="@+id/main"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="#F6F2F2"
+    android:background="#F4E878"
     tools:context=".MainActivity">
 
     <TextView
@@ -13,8 +13,8 @@
         android:layout_height="wrap_content"
         android:background="#F44336"
         android:backgroundTint="#F6F2F2"
-        android:text="PORT EN"
-        android:textColor="#D207FF"
+        android:text="LAND EN"
+        android:textColor="#008EFF"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
