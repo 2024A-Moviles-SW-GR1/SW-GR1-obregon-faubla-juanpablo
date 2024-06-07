@@ -1,0 +1,18 @@
+Artista
+1
+1
+1.0
+Thu Jun 06 23:51:18 ECT 2024
+false
+Obras
+q
+Thu Jun 06 23:51:56 ECT 2024
+false
+2
+2.0
+Obras
+b
+Thu Jun 06 23:52:33 ECT 2024
+false
+4
+4.0
